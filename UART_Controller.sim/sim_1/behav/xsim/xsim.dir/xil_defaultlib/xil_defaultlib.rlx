@@ -1,0 +1,13 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sim_1/new/Quiz.v,1618994448,verilog,,,,Quiz,,,,,,,,
+D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sim_1/new/UART_testbench.v,1618991945,verilog,,,,UART_testbench,,,,,,,,
+D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/D_FF.v,1618947403,verilog,,D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/PISO_SR.v,,D_FF,,,,,,,,
+D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/PISO_SR.v,1618951660,verilog,,D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/Processor_RX.v,,PISO_SR,,,,,,,,
+D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/Processor_RX.v,1618989872,verilog,,D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/Processor_TX.v,,Processor_RX,,,,,,,,
+D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/Processor_TX.v,1618992188,verilog,,D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/SIPO_SR.v,,Processor_TX,,,,,,,,
+D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/SIPO_SR.v,1618983313,verilog,,D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/Sel.v,,SIPO_SR,,,,,,,,
+D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sources_1/new/Sel.v,1618952704,verilog,,D:/Studies/Subjects/Semester 6/System on Programmable Chip Practice/Project Final/UART_Controller.srcs/sim_1/new/UART_testbench.v,,Sel,,,,,,,,
